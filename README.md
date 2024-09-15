@@ -20,8 +20,8 @@ This project is part of the **Software Engineering (CS-GY 6063)** course, Sectio
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/saiharshavarma/CV-website.git
-   cd CV-website
+   git clone [https://github.com/saiharshavarma/CV-website.git](https://github.com/saiharshavarma/Software-Engineering-Assignment-1-CV.git)
+   cd Software-Engineering-Assignment-1-CV
    ```
 2. **Set up a virtual environment**:
    ```bash
